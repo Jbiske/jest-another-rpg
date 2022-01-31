@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "Yes",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jest-another-rpg"
+  },
+  "keywords": [
+    "potion",
+    "player",
+    "enemy"
+  ],
+  "author": "Joshua Biske",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
